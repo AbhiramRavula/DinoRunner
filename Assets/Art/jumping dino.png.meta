@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: d77dc2746479cf94786ab95f64f8bf50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6374139546935006986
+    second: jumping dino_0
+  - first:
+      213: 6851356550926063258
+    second: jumping dino_1
+  - first:
+      213: 1427811265748018337
+    second: jumping dino_2
+  - first:
+      213: -6560497194666110013
+    second: jumping dino_3
+  - first:
+      213: 5456730599605465629
+    second: jumping dino_4
+  - first:
+      213: -1550625883902208569
+    second: jumping dino_5
+  - first:
+      213: -7188571414931640680
+    second: jumping dino_6
+  - first:
+      213: -291561860519691173
+    second: jumping dino_7
+  - first:
+      213: -4251994650964643594
+    second: jumping dino_8
+  - first:
+      213: -6142317996607764081
+    second: jumping dino_9
+  - first:
+      213: 2430648621166502069
+    second: jumping dino_10
+  - first:
+      213: -3341502826196990463
+    second: jumping dino_11
+  - first:
+      213: -3753127568850587078
+    second: jumping dino_12
+  - first:
+      213: -4344155251173129577
+    second: jumping dino_13
+  - first:
+      213: -4699323310094689733
+    second: jumping dino_14
+  - first:
+      213: 5685127733869977602
+    second: jumping dino_15
+  - first:
+      213: 7328539897364175588
+    second: jumping dino_16
+  - first:
+      213: -9148543638514946706
+    second: jumping dino_17
+  - first:
+      213: 3552121822937104051
+    second: jumping dino_18
+  - first:
+      213: -5531726927723331926
+    second: jumping dino_19
+  - first:
+      213: -3304939738053881006
+    second: jumping dino_20
+  - first:
+      213: 6218809011695807097
+    second: jumping dino_21
+  - first:
+      213: 457095146920979538
+    second: jumping dino_22
+  - first:
+      213: -432606332506081406
+    second: jumping dino_23
+  - first:
+      213: -1377301517690445156
+    second: jumping dino_24
+  - first:
+      213: 8090110828383726584
+    second: jumping dino_25
+  - first:
+      213: -2432968853906544712
+    second: jumping dino_26
+  - first:
+      213: 6740862292821521257
+    second: jumping dino_27
+  - first:
+      213: -4419503978638058095
+    second: jumping dino_28
+  - first:
+      213: 5583671973075910977
+    second: jumping dino_29
+  - first:
+      213: -2969905899942596737
+    second: jumping dino_30
+  - first:
+      213: 2034728115074837592
+    second: jumping dino_31
+  - first:
+      213: -1527150224934566025
+    second: jumping dino_32
+  - first:
+      213: -3892595172991638153
+    second: jumping dino_33
+  - first:
+      213: -6515612883941358239
+    second: jumping dino_34
+  - first:
+      213: -502210345008910872
+    second: jumping dino_35
+  - first:
+      213: 2094183969940182355
+    second: jumping dino_36
+  - first:
+      213: -6770617767443490840
+    second: jumping dino_37
+  - first:
+      213: -3361840602030459837
+    second: jumping dino_38
+  - first:
+      213: 7341405233392200
+    second: jumping dino_39
+  - first:
+      213: -8726386146751101729
+    second: jumping dino_40
+  - first:
+      213: 1156381525029004581
+    second: jumping dino_41
+  - first:
+      213: 6305987776755383506
+    second: jumping dino_42
+  - first:
+      213: -2343763485967654415
+    second: jumping dino_43
+  - first:
+      213: 2485820176813910467
+    second: jumping dino_44
+  - first:
+      213: -8894121329612924837
+    second: jumping dino_45
+  - first:
+      213: 7405289442288416904
+    second: jumping dino_46
+  - first:
+      213: 8266667664982693502
+    second: jumping dino_47
+  - first:
+      213: -419267750617049704
+    second: jumping dino_48
+  - first:
+      213: -8076083815270807618
+    second: jumping dino_49
+  - first:
+      213: 2083227858771618566
+    second: jumping dino_50
+  - first:
+      213: 919218674446848895
+    second: jumping dino_51
+  - first:
+      213: 1563873089140014141
+    second: jumping dino_52
+  - first:
+      213: 7662374785707629731
+    second: jumping dino_53
+  - first:
+      213: -1252634364309124540
+    second: jumping dino_54
+  - first:
+      213: -2242208104656508422
+    second: jumping dino_55
+  - first:
+      213: 6776298605981637979
+    second: jumping dino_56
+  - first:
+      213: -4356742502163872429
+    second: jumping dino_57
+  - first:
+      213: -8643737816380239812
+    second: jumping dino_58
+  - first:
+      213: 3620727901143346357
+    second: jumping dino_59
+  - first:
+      213: -1260240394314185812
+    second: jumping dino_60
+  - first:
+      213: 6992774202354643967
+    second: jumping dino_61
+  - first:
+      213: -4226957241764737141
+    second: jumping dino_62
+  - first:
+      213: 2719830372240420455
+    second: jumping dino_63
+  - first:
+      213: -744052781144758847
+    second: jumping dino_64
+  - first:
+      213: 3924112840135177212
+    second: jumping dino_65
+  - first:
+      213: 2593220924443982787
+    second: jumping dino_66
+  - first:
+      213: -315560190778263181
+    second: jumping dino_67
+  - first:
+      213: 3030413130014452951
+    second: jumping dino_68
+  - first:
+      213: -8422850671654347009
+    second: jumping dino_69
+  - first:
+      213: -5532313612628147717
+    second: jumping dino_70
+  - first:
+      213: -5281443934706803188
+    second: jumping dino_71
+  - first:
+      213: -3233761970773759574
+    second: jumping dino_72
+  - first:
+      213: -1225402258620462760
+    second: jumping dino_73
+  - first:
+      213: -1753963150278050005
+    second: jumping dino_74
+  - first:
+      213: -6438936601423387961
+    second: jumping dino_75
+  - first:
+      213: 5313737755616011682
+    second: jumping dino_76
+  - first:
+      213: 2255358121635864990
+    second: jumping dino_77
+  - first:
+      213: -3395191622581716980
+    second: jumping dino_78
+  - first:
+      213: 8880216156044101601
+    second: jumping dino_79
+  - first:
+      213: 1581751977594344165
+    second: jumping dino_80
+  - first:
+      213: 5311515307774939124
+    second: jumping dino_81
+  - first:
+      213: 9179571809254163503
+    second: jumping dino_82
+  - first:
+      213: -689655955711756344
+    second: jumping dino_83
+  - first:
+      213: 3558970791256793259
+    second: jumping dino_84
+  - first:
+      213: -742503997922911287
+    second: jumping dino_85
+  - first:
+      213: -7607948104732961776
+    second: jumping dino_86
+  - first:
+      213: -5429786873691115367
+    second: jumping dino_87
+  - first:
+      213: -8412559209296584751
+    second: jumping dino_88
+  - first:
+      213: 3801954423432102341
+    second: jumping dino_89
+  - first:
+      213: -1995963349960519176
+    second: jumping dino_90
+  - first:
+      213: 5491182227539308499
+    second: jumping dino_91
+  - first:
+      213: -914864777783776306
+    second: jumping dino_92
+  - first:
+      213: 7402574340430342463
+    second: jumping dino_93
+  - first:
+      213: 588641065183708542
+    second: jumping dino_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumping dino_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 253
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f86b2c8ad18a87a0800000000000000
+      internalID: -6374139546935006986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 444
+        width: 224
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a965e77ab78e41f50800000000000000
+      internalID: 6851356550926063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 444
+        width: 213
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4263508ca90d310800000000000000
+      internalID: 1427811265748018337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_3
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 444
+        width: 229
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3daf97f8e64f4a0800000000000000
+      internalID: -6560497194666110013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_4
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 444
+        width: 228
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fc70c1933abb40800000000000000
+      internalID: 5456730599605465629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 444
+        width: 240
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59b7269f11b7ae0800000000000000
+      internalID: -1550625883902208569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_6
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 444
+        width: 253
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ee87282601d3c90800000000000000
+      internalID: -7188571414931640680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 263
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cfba9580a24fbf0800000000000000
+      internalID: -291561860519691173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 217
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0346a9461edf4c0800000000000000
+      internalID: -4251994650964643594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 87
+        width: 206
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8984b2535a12caa0800000000000000
+      internalID: -6142317996607764081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 140
+        width: 206
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02c66fa066bb120800000000000000
+      internalID: 2430648621166502069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_11
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 156
+        width: 214
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106809432e890a1d0800000000000000
+      internalID: -3341502826196990463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 116
+        width: 222
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327fed6c563aebc0800000000000000
+      internalID: -3753127568850587078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping dino_13
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 69
+        width: 261
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7928dacb0d576b3c0800000000000000
+      internalID: -4344155251173129577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e8d9f13e5525b434795cbd186288aec9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":2.0},"gridSpriteSize":{"x":253.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      jumping dino_0: -6374139546935006986
+      jumping dino_1: 6851356550926063258
+      jumping dino_10: 2430648621166502069
+      jumping dino_11: -3341502826196990463
+      jumping dino_12: -3753127568850587078
+      jumping dino_13: -4344155251173129577
+      jumping dino_2: 1427811265748018337
+      jumping dino_3: -6560497194666110013
+      jumping dino_4: 5456730599605465629
+      jumping dino_5: -1550625883902208569
+      jumping dino_6: -7188571414931640680
+      jumping dino_7: -291561860519691173
+      jumping dino_8: -4251994650964643594
+      jumping dino_9: -6142317996607764081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

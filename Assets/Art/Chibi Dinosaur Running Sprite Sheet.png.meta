@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 17920875923629947981917cf08f65ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4569101199334393951
+    second: Chibi Dinosaur Running Sprite Sheet_0
+  - first:
+      213: -3518279534968227236
+    second: Chibi Dinosaur Running Sprite Sheet_1
+  - first:
+      213: -1441924480231104079
+    second: Chibi Dinosaur Running Sprite Sheet_2
+  - first:
+      213: 1126845917448953576
+    second: Chibi Dinosaur Running Sprite Sheet_3
+  - first:
+      213: 339076709979495450
+    second: Chibi Dinosaur Running Sprite Sheet_4
+  - first:
+      213: -547695069353871705
+    second: Chibi Dinosaur Running Sprite Sheet_5
+  - first:
+      213: 7234541085174229272
+    second: Chibi Dinosaur Running Sprite Sheet_6
+  - first:
+      213: 4261009784945759929
+    second: Chibi Dinosaur Running Sprite Sheet_7
+  - first:
+      213: -6464304525314730913
+    second: Chibi Dinosaur Running Sprite Sheet_8
+  - first:
+      213: -9025090603572580890
+    second: Chibi Dinosaur Running Sprite Sheet_9
+  - first:
+      213: 1199813712058348188
+    second: Chibi Dinosaur Running Sprite Sheet_10
+  - first:
+      213: -1990674126194226445
+    second: Chibi Dinosaur Running Sprite Sheet_11
+  - first:
+      213: 193395638173579324
+    second: Chibi Dinosaur Running Sprite Sheet_12
+  - first:
+      213: 6032055089092769237
+    second: Chibi Dinosaur Running Sprite Sheet_13
+  - first:
+      213: 2142530382424742484
+    second: Chibi Dinosaur Running Sprite Sheet_14
+  - first:
+      213: -5153875608027267153
+    second: Chibi Dinosaur Running Sprite Sheet_15
+  - first:
+      213: 5005047207001711757
+    second: Chibi Dinosaur Running Sprite Sheet_16
+  - first:
+      213: -4942220095587295364
+    second: Chibi Dinosaur Running Sprite Sheet_17
+  - first:
+      213: 1107952018980090897
+    second: Chibi Dinosaur Running Sprite Sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 458
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b974f31e534914783c664bc8fd8f3f
+      internalID: -4569101199334393951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450bf7bfe24cda4ca6b3ca64d60737f
+      internalID: -3518279534968227236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 440
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a245f538da426849964f8e421be459d
+      internalID: -1441924480231104079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 443
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5000d0ae8928045a7b356aed77e99d
+      internalID: 1126845917448953576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 49
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f232267e1a3b98b4b99d1c3502243440
+      internalID: 339076709979495450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 49
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d7b57c96e4384097982cccc2c9bf1
+      internalID: -547695069353871705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 40
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce4b39f2f5607749a0bd375e71866f7
+      internalID: 7234541085174229272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chibi Dinosaur Running Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 454
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ace91ae155ead4397d998b921f35bb
+      internalID: 4261009784945759929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0fcd7fb3bd17c3f40a4755c508c93103
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chibi Dinosaur Running Sprite Sheet_0: -4569101199334393951
+      Chibi Dinosaur Running Sprite Sheet_1: -3518279534968227236
+      Chibi Dinosaur Running Sprite Sheet_10: 1199813712058348188
+      Chibi Dinosaur Running Sprite Sheet_11: -1990674126194226445
+      Chibi Dinosaur Running Sprite Sheet_12: 193395638173579324
+      Chibi Dinosaur Running Sprite Sheet_13: 6032055089092769237
+      Chibi Dinosaur Running Sprite Sheet_14: 2142530382424742484
+      Chibi Dinosaur Running Sprite Sheet_15: -5153875608027267153
+      Chibi Dinosaur Running Sprite Sheet_16: 5005047207001711757
+      Chibi Dinosaur Running Sprite Sheet_17: -4942220095587295364
+      Chibi Dinosaur Running Sprite Sheet_18: 1107952018980090897
+      Chibi Dinosaur Running Sprite Sheet_2: -1441924480231104079
+      Chibi Dinosaur Running Sprite Sheet_3: 1126845917448953576
+      Chibi Dinosaur Running Sprite Sheet_4: 339076709979495450
+      Chibi Dinosaur Running Sprite Sheet_5: -547695069353871705
+      Chibi Dinosaur Running Sprite Sheet_6: 7234541085174229272
+      Chibi Dinosaur Running Sprite Sheet_7: 4261009784945759929
+      Chibi Dinosaur Running Sprite Sheet_8: -6464304525314730913
+      Chibi Dinosaur Running Sprite Sheet_9: -9025090603572580890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

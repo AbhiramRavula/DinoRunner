@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 340d618e2340bbf47a0088092238f53b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -166088472747659955
+    second: dino bird_0
+  - first:
+      213: 2941425169818059958
+    second: dino bird_1
+  - first:
+      213: -8619234661857153077
+    second: dino bird_2
+  - first:
+      213: -5097082686349470777
+    second: dino bird_3
+  - first:
+      213: 5069906864954341575
+    second: dino bird_4
+  - first:
+      213: -661912282249073279
+    second: dino bird_5
+  - first:
+      213: 295882915618777849
+    second: dino bird_6
+  - first:
+      213: 2192531268340314425
+    second: dino bird_7
+  - first:
+      213: -1499470515239319951
+    second: dino bird_8
+  - first:
+      213: -5915562439908806989
+    second: dino bird_9
+  - first:
+      213: -1569813993639492859
+    second: dino bird_10
+  - first:
+      213: -2703762104364152442
+    second: dino bird_11
+  - first:
+      213: 1961939171702390608
+    second: dino bird_12
+  - first:
+      213: -2319809322252288781
+    second: dino bird_13
+  - first:
+      213: -4282128041415915907
+    second: dino bird_14
+  - first:
+      213: 5404984680270301590
+    second: dino bird_15
+  - first:
+      213: 6577938680767181506
+    second: dino bird_16
+  - first:
+      213: -2108681115461758957
+    second: dino bird_17
+  - first:
+      213: -6421349071060019580
+    second: dino bird_18
+  - first:
+      213: 1759561511641564556
+    second: dino bird_19
+  - first:
+      213: 3906323995838747647
+    second: dino bird_20
+  - first:
+      213: -8189827369119258057
+    second: dino bird_21
+  - first:
+      213: -2302703255898622938
+    second: dino bird_22
+  - first:
+      213: 4444795357279582131
+    second: dino bird_23
+  - first:
+      213: 6281719675322552591
+    second: dino bird_24
+  - first:
+      213: 366156336736691917
+    second: dino bird_25
+  - first:
+      213: 7083037117341259381
+    second: dino bird_26
+  - first:
+      213: 7146483667309632262
+    second: dino bird_27
+  - first:
+      213: -625078279376585889
+    second: dino bird_28
+  - first:
+      213: -4376527283166458867
+    second: dino bird_29
+  - first:
+      213: 3939262895935635751
+    second: dino bird_30
+  - first:
+      213: 71462102325861192
+    second: dino bird_31
+  - first:
+      213: -865541964253713189
+    second: dino bird_32
+  - first:
+      213: 3654340898146631556
+    second: dino bird_33
+  - first:
+      213: 619992552111100103
+    second: dino bird_34
+  - first:
+      213: -6695786917454697191
+    second: dino bird_35
+  - first:
+      213: 7492095258823977470
+    second: dino bird_36
+  - first:
+      213: -2365186757847318459
+    second: dino bird_37
+  - first:
+      213: 7367451933752801115
+    second: dino bird_38
+  - first:
+      213: -8033082780727906433
+    second: dino bird_39
+  - first:
+      213: -4184999468008461461
+    second: dino bird_40
+  - first:
+      213: -111622584793008673
+    second: dino bird_41
+  - first:
+      213: -939081602929232035
+    second: dino bird_42
+  - first:
+      213: 8932238559537089240
+    second: dino bird_43
+  - first:
+      213: -1630773132161480958
+    second: dino bird_44
+  - first:
+      213: -5997234548901185031
+    second: dino bird_45
+  - first:
+      213: 6927614459860750101
+    second: dino bird_46
+  - first:
+      213: 8131623886056547100
+    second: dino bird_47
+  - first:
+      213: 5073421983050997838
+    second: dino bird_48
+  - first:
+      213: -2473250271837063446
+    second: dino bird_49
+  - first:
+      213: 2675181227891841930
+    second: dino bird_50
+  - first:
+      213: 9223344432349969237
+    second: dino bird_51
+  - first:
+      213: -3033092812664161251
+    second: dino bird_52
+  - first:
+      213: 2870694214676073169
+    second: dino bird_53
+  - first:
+      213: -8719416844038611111
+    second: dino bird_54
+  - first:
+      213: -2163043072319597547
+    second: dino bird_55
+  - first:
+      213: -723375742014586934
+    second: dino bird_56
+  - first:
+      213: -6432534465996450437
+    second: dino bird_57
+  - first:
+      213: -6828599751232768613
+    second: dino bird_58
+  - first:
+      213: -5900975818841250094
+    second: dino bird_59
+  - first:
+      213: -9085376486416414880
+    second: dino bird_60
+  - first:
+      213: -3584145192998723242
+    second: dino bird_61
+  - first:
+      213: -6541797796818405905
+    second: dino bird_62
+  - first:
+      213: 3686672797485445412
+    second: dino bird_63
+  - first:
+      213: -8166175664023724856
+    second: dino bird_64
+  - first:
+      213: 1733768913535222027
+    second: dino bird_65
+  - first:
+      213: 6679173239298792623
+    second: dino bird_66
+  - first:
+      213: -6059723391635388302
+    second: dino bird_67
+  - first:
+      213: 7078840369446740355
+    second: dino bird_68
+  - first:
+      213: 5860739912171089929
+    second: dino bird_69
+  - first:
+      213: 1333287709426319740
+    second: dino bird_70
+  - first:
+      213: 6975274906262481665
+    second: dino bird_71
+  - first:
+      213: 6130537243959653100
+    second: dino bird_72
+  - first:
+      213: -5863070080331059749
+    second: dino bird_73
+  - first:
+      213: -6692872291990146874
+    second: dino bird_74
+  - first:
+      213: -8211023892530645716
+    second: dino bird_75
+  - first:
+      213: 4609808686679166656
+    second: dino bird_76
+  - first:
+      213: -7394533755169915593
+    second: dino bird_77
+  - first:
+      213: 4912664407875209170
+    second: dino bird_78
+  - first:
+      213: -7998388728103726803
+    second: dino bird_79
+  - first:
+      213: -7221658129560881498
+    second: dino bird_80
+  - first:
+      213: 4377954717738382537
+    second: dino bird_81
+  - first:
+      213: 8891876231141312652
+    second: dino bird_82
+  - first:
+      213: 4290553629334609962
+    second: dino bird_83
+  - first:
+      213: -2176796177073882618
+    second: dino bird_84
+  - first:
+      213: -1902718423993905490
+    second: dino bird_85
+  - first:
+      213: 314629175424763681
+    second: dino bird_86
+  - first:
+      213: -121524380928811933
+    second: dino bird_87
+  - first:
+      213: 4537201415245779468
+    second: dino bird_88
+  - first:
+      213: 7592472847098933404
+    second: dino bird_89
+  - first:
+      213: 622287485930691138
+    second: dino bird_90
+  - first:
+      213: 3094774936522429634
+    second: dino bird_91
+  - first:
+      213: 5549672052016299090
+    second: dino bird_92
+  - first:
+      213: -2764629491976847471
+    second: dino bird_93
+  - first:
+      213: -7564946145696010302
+    second: dino bird_94
+  - first:
+      213: 6320994594132881537
+    second: dino bird_95
+  - first:
+      213: 4416124624283381636
+    second: dino bird_96
+  - first:
+      213: 803110194742349487
+    second: dino bird_97
+  - first:
+      213: -7990405451758497038
+    second: dino bird_98
+  - first:
+      213: -6092612043363916329
+    second: dino bird_99
+  - first:
+      213: -418156422952615705
+    second: dino bird_100
+  - first:
+      213: -3655316381979736212
+    second: dino bird_101
+  - first:
+      213: 9195819271627979864
+    second: dino bird_102
+  - first:
+      213: 9119329370303168194
+    second: dino bird_103
+  - first:
+      213: 3736867657024051321
+    second: dino bird_104
+  - first:
+      213: 1362897078866294174
+    second: dino bird_105
+  - first:
+      213: 8821741096841688989
+    second: dino bird_106
+  - first:
+      213: 1169064407037626424
+    second: dino bird_107
+  - first:
+      213: -4474355012023537009
+    second: dino bird_108
+  - first:
+      213: -8004502631979500963
+    second: dino bird_109
+  - first:
+      213: 1490219783847077705
+    second: dino bird_110
+  - first:
+      213: 1736613571609165521
+    second: dino bird_111
+  - first:
+      213: -4290841020713808617
+    second: dino bird_112
+  - first:
+      213: 8366986607913637852
+    second: dino bird_113
+  - first:
+      213: 3489702225734467424
+    second: dino bird_114
+  - first:
+      213: -6149543110140946133
+    second: dino bird_115
+  - first:
+      213: -4897325694099047479
+    second: dino bird_116
+  - first:
+      213: -8900233703754900155
+    second: dino bird_117
+  - first:
+      213: -3379666880502724169
+    second: dino bird_118
+  - first:
+      213: 5543717822284963340
+    second: dino bird_119
+  - first:
+      213: 3096112519899322094
+    second: dino bird_120
+  - first:
+      213: -7239125800371758434
+    second: dino bird_121
+  - first:
+      213: 6647507455348982550
+    second: dino bird_122
+  - first:
+      213: 5248330422120078550
+    second: dino bird_123
+  - first:
+      213: -3938487853518355559
+    second: dino bird_124
+  - first:
+      213: 3625093530804087880
+    second: dino bird_125
+  - first:
+      213: 6325223406698807885
+    second: dino bird_126
+  - first:
+      213: -1232323585995321019
+    second: dino bird_127
+  - first:
+      213: -4684313437520323185
+    second: dino bird_128
+  - first:
+      213: -4603351235575177407
+    second: dino bird_129
+  - first:
+      213: -8844573171873722985
+    second: dino bird_130
+  - first:
+      213: -660191091939770162
+    second: dino bird_131
+  - first:
+      213: 2325251601602285571
+    second: dino bird_132
+  - first:
+      213: -3075714210327349407
+    second: dino bird_133
+  - first:
+      213: 7743152966365125954
+    second: dino bird_134
+  - first:
+      213: -7152976137700545229
+    second: dino bird_135
+  - first:
+      213: 7621349189000108595
+    second: dino bird_136
+  - first:
+      213: 3922626356153741120
+    second: dino bird_137
+  - first:
+      213: -2818756411418615489
+    second: dino bird_138
+  - first:
+      213: 3578117137561326596
+    second: dino bird_139
+  - first:
+      213: 6040340520580405597
+    second: dino bird_140
+  - first:
+      213: 576528396568978225
+    second: dino bird_141
+  - first:
+      213: -6509709070566341798
+    second: dino bird_142
+  - first:
+      213: 8158470439393782595
+    second: dino bird_143
+  - first:
+      213: 8267245528557600003
+    second: dino bird_144
+  - first:
+      213: -688305773466671158
+    second: dino bird_145
+  - first:
+      213: 7078127649778830519
+    second: dino bird_146
+  - first:
+      213: 6429448851414900574
+    second: dino bird_147
+  - first:
+      213: -9026591322160735566
+    second: dino bird_148
+  - first:
+      213: -2858007158078178443
+    second: dino bird_149
+  - first:
+      213: 5455081958621382231
+    second: dino bird_150
+  - first:
+      213: -3703515598305272770
+    second: dino bird_151
+  - first:
+      213: -5387949585501889217
+    second: dino bird_152
+  - first:
+      213: -4100651349467553363
+    second: dino bird_153
+  - first:
+      213: 2558785393645475406
+    second: dino bird_154
+  - first:
+      213: 7787638846949647140
+    second: dino bird_155
+  - first:
+      213: -8215810551715772258
+    second: dino bird_156
+  - first:
+      213: -7413019756812707046
+    second: dino bird_157
+  - first:
+      213: -7117759342712091514
+    second: dino bird_158
+  - first:
+      213: 6321540791953470387
+    second: dino bird_159
+  - first:
+      213: 370314248723292611
+    second: dino bird_160
+  - first:
+      213: 6066269408996167002
+    second: dino bird_161
+  - first:
+      213: 563840749200199599
+    second: dino bird_162
+  - first:
+      213: -3828871579687030214
+    second: dino bird_163
+  - first:
+      213: 9155523609811734154
+    second: dino bird_164
+  - first:
+      213: 1668662064651207956
+    second: dino bird_165
+  - first:
+      213: 7618477967666001346
+    second: dino bird_166
+  - first:
+      213: -1070784134884671786
+    second: dino bird_167
+  - first:
+      213: 8876027491909733731
+    second: dino bird_168
+  - first:
+      213: -8880219409009653176
+    second: dino bird_169
+  - first:
+      213: -8406141725040900740
+    second: dino bird_170
+  - first:
+      213: 2566079623569504037
+    second: dino bird_171
+  - first:
+      213: -3718164251613182176
+    second: dino bird_172
+  - first:
+      213: -3368728236262219446
+    second: dino bird_173
+  - first:
+      213: -8118690154649224787
+    second: dino bird_174
+  - first:
+      213: 4806501339373238420
+    second: dino bird_175
+  - first:
+      213: 7693762580515370652
+    second: dino bird_176
+  - first:
+      213: 924001981081792501
+    second: dino bird_177
+  - first:
+      213: 31002205856647541
+    second: dino bird_178
+  - first:
+      213: -6001847462128314056
+    second: dino bird_179
+  - first:
+      213: -5887313603056331608
+    second: dino bird_180
+  - first:
+      213: 8088338279241536334
+    second: dino bird_181
+  - first:
+      213: 9066650373831919306
+    second: dino bird_182
+  - first:
+      213: -2690141741313665455
+    second: dino bird_183
+  - first:
+      213: -2320337874467850957
+    second: dino bird_184
+  - first:
+      213: 2323547481329300123
+    second: dino bird_185
+  - first:
+      213: -3601852779298335751
+    second: dino bird_186
+  - first:
+      213: 4645353292993695164
+    second: dino bird_187
+  - first:
+      213: -8517438872578892420
+    second: dino bird_188
+  - first:
+      213: 3682840367499467718
+    second: dino bird_189
+  - first:
+      213: 6429104324561375753
+    second: dino bird_190
+  - first:
+      213: -1544545102858719419
+    second: dino bird_191
+  - first:
+      213: 4216134610861455816
+    second: dino bird_192
+  - first:
+      213: 1519607339419546259
+    second: dino bird_193
+  - first:
+      213: 6638404417899883300
+    second: dino bird_194
+  - first:
+      213: -4866050971037008184
+    second: dino bird_195
+  - first:
+      213: 2014584637420521902
+    second: dino bird_196
+  - first:
+      213: 7620395989034575891
+    second: dino bird_197
+  - first:
+      213: 4482606342249672879
+    second: dino bird_198
+  - first:
+      213: -1720572942486675258
+    second: dino bird_199
+  - first:
+      213: -1032365514239860191
+    second: dino bird_200
+  - first:
+      213: 4808320412320093151
+    second: dino bird_201
+  - first:
+      213: -9220698287513569298
+    second: dino bird_202
+  - first:
+      213: -4516299986154892865
+    second: dino bird_203
+  - first:
+      213: -3303617188517701074
+    second: dino bird_204
+  - first:
+      213: -8180834679764926465
+    second: dino bird_205
+  - first:
+      213: 6574083921609548601
+    second: dino bird_206
+  - first:
+      213: 7080940027151451931
+    second: dino bird_207
+  - first:
+      213: -770144561137576759
+    second: dino bird_208
+  - first:
+      213: 1243886976796747947
+    second: dino bird_209
+  - first:
+      213: 6248528828554196570
+    second: dino bird_210
+  - first:
+      213: -2329842909869483571
+    second: dino bird_211
+  - first:
+      213: 7956833985868578028
+    second: dino bird_212
+  - first:
+      213: -6372931575625346067
+    second: dino bird_213
+  - first:
+      213: 782929258993922862
+    second: dino bird_214
+  - first:
+      213: -6153610058777371741
+    second: dino bird_215
+  - first:
+      213: -6422269519608279874
+    second: dino bird_216
+  - first:
+      213: -8623654994587201709
+    second: dino bird_217
+  - first:
+      213: 3377777366255832978
+    second: dino bird_218
+  - first:
+      213: -8053676185198648576
+    second: dino bird_219
+  - first:
+      213: -1445292820535307758
+    second: dino bird_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dino bird_7
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 56
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9317c50729f6d6e10800000000000000
+      internalID: 2192531268340314425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_8
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 56
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1760dfbc28fc03be0800000000000000
+      internalID: -1499470515239319951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_9
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 50
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea79a8d43b7eda0800000000000000
+      internalID: -5915562439908806989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 302
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d764aa8eb33d294c0800000000000000
+      internalID: -4282128041415915907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 372
+        width: 279
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0234c43b8344b7488c7f0954b36f5ec
+      internalID: -166088472747659955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_1
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 374
+        width: 258
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417fa4d87028f374d853b843b3ca8c4c
+      internalID: 2941425169818059958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_2
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 348
+        width: 234
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e779ba850abc54fa364f3ff4538abc
+      internalID: -8619234661857153077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 27
+        width: 297
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e963904f06d32e44e85966eb5b6882d9
+      internalID: -5097082686349470777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 45
+        width: 253
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89c1893594612f4a99c247fab3efc02
+      internalID: 5069906864954341575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 45
+        width: 265
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eac2313f6ebe641a1d944f0f712254
+      internalID: -661912282249073279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino bird_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 36
+        width: 249
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c87d5c967056948a679b3ca53900c7
+      internalID: 295882915618777849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e585d3d20e9845b45abd26b85e48bb44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":3.0},"gridSpriteSize":{"x":253.0,"y":295.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dino bird_0: -166088472747659955
+      dino bird_1: 2941425169818059958
+      dino bird_10: -1569813993639492859
+      dino bird_11: -2703762104364152442
+      dino bird_12: 1961939171702390608
+      dino bird_13: -2319809322252288781
+      dino bird_14: -4282128041415915907
+      dino bird_15: 5404984680270301590
+      dino bird_16: 6577938680767181506
+      dino bird_17: -2108681115461758957
+      dino bird_18: -6421349071060019580
+      dino bird_19: 1759561511641564556
+      dino bird_2: -8619234661857153077
+      dino bird_20: 3906323995838747647
+      dino bird_3: -5097082686349470777
+      dino bird_4: 5069906864954341575
+      dino bird_5: -661912282249073279
+      dino bird_6: 295882915618777849
+      dino bird_7: 2192531268340314425
+      dino bird_8: -1499470515239319951
+      dino bird_9: -5915562439908806989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

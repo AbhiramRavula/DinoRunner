@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: d516ae96030c9f843b1028e4af13d508
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8106334352002716103
+    second: duck run dino_0
+  - first:
+      213: -7432420819728828999
+    second: duck run dino_1
+  - first:
+      213: 9023384743959568383
+    second: duck run dino_2
+  - first:
+      213: 2012948374424705079
+    second: duck run dino_3
+  - first:
+      213: -2499255629032117688
+    second: duck run dino_4
+  - first:
+      213: -4923393218716754037
+    second: duck run dino_5
+  - first:
+      213: 5786552921399654053
+    second: duck run dino_6
+  - first:
+      213: 5881204068217555988
+    second: duck run dino_7
+  - first:
+      213: -7910659569866944460
+    second: duck run dino_8
+  - first:
+      213: -4011344623970225172
+    second: duck run dino_9
+  - first:
+      213: 3419471693709291053
+    second: duck run dino_10
+  - first:
+      213: 3958675172574997058
+    second: duck run dino_11
+  - first:
+      213: -3162298727436198905
+    second: duck run dino_12
+  - first:
+      213: 3144631888215661079
+    second: duck run dino_13
+  - first:
+      213: 859245796038525563
+    second: duck run dino_14
+  - first:
+      213: 2006421730421501803
+    second: duck run dino_15
+  - first:
+      213: 5332237580557265320
+    second: duck run dino_16
+  - first:
+      213: 5902844841187904850
+    second: duck run dino_17
+  - first:
+      213: -6378346064998631386
+    second: duck run dino_18
+  - first:
+      213: -7888646365790522085
+    second: duck run dino_19
+  - first:
+      213: 4208824930881342379
+    second: duck run dino_20
+  - first:
+      213: -3141528246076472842
+    second: duck run dino_21
+  - first:
+      213: -1210704894781240127
+    second: duck run dino_22
+  - first:
+      213: -6642969579860586204
+    second: duck run dino_23
+  - first:
+      213: -6464518873721123830
+    second: duck run dino_24
+  - first:
+      213: -8334888957624549826
+    second: duck run dino_25
+  - first:
+      213: 619157087169089926
+    second: duck run dino_26
+  - first:
+      213: 1203930445476617566
+    second: duck run dino_27
+  - first:
+      213: 697152450587005800
+    second: duck run dino_28
+  - first:
+      213: -7432636144857058828
+    second: duck run dino_29
+  - first:
+      213: -2333328392343018545
+    second: duck run dino_30
+  - first:
+      213: 8947845224638469223
+    second: duck run dino_31
+  - first:
+      213: 4447068279826118851
+    second: duck run dino_32
+  - first:
+      213: 1140675590780739004
+    second: duck run dino_33
+  - first:
+      213: 3278204641741630197
+    second: duck run dino_34
+  - first:
+      213: -2609110124456817436
+    second: duck run dino_35
+  - first:
+      213: -8176954405508372409
+    second: duck run dino_36
+  - first:
+      213: -4804530366826877153
+    second: duck run dino_37
+  - first:
+      213: 8271587554820559831
+    second: duck run dino_38
+  - first:
+      213: -7887237544537689180
+    second: duck run dino_39
+  - first:
+      213: 6057291228604999465
+    second: duck run dino_40
+  - first:
+      213: -7657214172412949485
+    second: duck run dino_41
+  - first:
+      213: -7736596237326870582
+    second: duck run dino_42
+  - first:
+      213: -3229271592966372751
+    second: duck run dino_43
+  - first:
+      213: -2413900082525135690
+    second: duck run dino_44
+  - first:
+      213: -8354460045438750303
+    second: duck run dino_45
+  - first:
+      213: 7249999095861208204
+    second: duck run dino_46
+  - first:
+      213: -7114903057151502187
+    second: duck run dino_47
+  - first:
+      213: -661820869936969419
+    second: duck run dino_48
+  - first:
+      213: 5708099318637857749
+    second: duck run dino_49
+  - first:
+      213: 3746962429445464686
+    second: duck run dino_50
+  - first:
+      213: 7638447149228590137
+    second: duck run dino_51
+  - first:
+      213: -1030589015648783498
+    second: duck run dino_52
+  - first:
+      213: -6998383201750303297
+    second: duck run dino_53
+  - first:
+      213: -5184572076604502737
+    second: duck run dino_54
+  - first:
+      213: 6931874906341834558
+    second: duck run dino_55
+  - first:
+      213: -9173267583763864868
+    second: duck run dino_56
+  - first:
+      213: -1515665763353487107
+    second: duck run dino_57
+  - first:
+      213: 4732242564949615097
+    second: duck run dino_58
+  - first:
+      213: 4921616074600789770
+    second: duck run dino_59
+  - first:
+      213: -3617945724342201926
+    second: duck run dino_60
+  - first:
+      213: 8516681122251719683
+    second: duck run dino_61
+  - first:
+      213: -3995627916969465009
+    second: duck run dino_62
+  - first:
+      213: 4235245479548913482
+    second: duck run dino_63
+  - first:
+      213: -6392960826482829991
+    second: duck run dino_64
+  - first:
+      213: -8166354525542636349
+    second: duck run dino_65
+  - first:
+      213: -8252805214696825591
+    second: duck run dino_66
+  - first:
+      213: 4338413691948562856
+    second: duck run dino_67
+  - first:
+      213: -5273778352520382695
+    second: duck run dino_68
+  - first:
+      213: 3428527171411524159
+    second: duck run dino_69
+  - first:
+      213: -6681420006220873141
+    second: duck run dino_70
+  - first:
+      213: -5481175297858025932
+    second: duck run dino_71
+  - first:
+      213: 5497679873274398028
+    second: duck run dino_72
+  - first:
+      213: -1820246580653688277
+    second: duck run dino_73
+  - first:
+      213: -7365659988585558258
+    second: duck run dino_74
+  - first:
+      213: -4784416226466024041
+    second: duck run dino_75
+  - first:
+      213: 5867887293161127479
+    second: duck run dino_76
+  - first:
+      213: -3781875046874881985
+    second: duck run dino_77
+  - first:
+      213: 489820847193719573
+    second: duck run dino_78
+  - first:
+      213: 8105477170078464794
+    second: duck run dino_79
+  - first:
+      213: -2250054039240055922
+    second: duck run dino_80
+  - first:
+      213: -3758822733420672306
+    second: duck run dino_81
+  - first:
+      213: 3218523905795677130
+    second: duck run dino_82
+  - first:
+      213: -8933630556967460546
+    second: duck run dino_83
+  - first:
+      213: 7545993286055575126
+    second: duck run dino_84
+  - first:
+      213: -9057638921302155860
+    second: duck run dino_85
+  - first:
+      213: 8145942349091780916
+    second: duck run dino_86
+  - first:
+      213: -8684699242335684551
+    second: duck run dino_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: duck run dino_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ee4562bd3808f80800000000000000
+      internalID: -8106334352002716103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b578d2a4acbad890800000000000000
+      internalID: -7432420819728828999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff936fdd90893d70800000000000000
+      internalID: 9023384743959568383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d8c8a1ed6feb10800000000000000
+      internalID: 2012948374424705079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a25ac3f3cd05dd0800000000000000
+      internalID: -2499255629032117688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f12dce3f79cabb0800000000000000
+      internalID: -4923393218716754037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6760a3937fd4050800000000000000
+      internalID: 5786552921399654053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: duck run dino_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c80b9a0fb3e9150800000000000000
+      internalID: 5881204068217555988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6ed6064c87b4344c82ac33eeb399683
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      duck run dino_0: -8106334352002716103
+      duck run dino_1: -7432420819728828999
+      duck run dino_2: 9023384743959568383
+      duck run dino_3: 2012948374424705079
+      duck run dino_4: -2499255629032117688
+      duck run dino_5: -4923393218716754037
+      duck run dino_6: 5786552921399654053
+      duck run dino_7: 5881204068217555988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
