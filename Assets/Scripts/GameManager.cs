@@ -139,6 +139,8 @@ public class GameManager : MonoBehaviour
             gameOverPanel.SetActive(true);
     }
 
+    private bool wasPlayingBeforeSettings;
+
     public void PauseGame()
     {
         if (!IsPlaying) return;
@@ -152,19 +154,36 @@ public class GameManager : MonoBehaviour
     {
         PlayClickSound();
         Time.timeScale = 1f;
+
         if (pausePanel != null) pausePanel.SetActive(false);
+        if (settingsPanel != null) settingsPanel.SetActive(false);
     }
 
     public void OpenSettings()
     {
         PlayClickSound();
+        wasPlayingBeforeSettings = IsPlaying && Time.timeScale > 0f;
+
+        // Pause the game behind the Settings panel
+        if (IsPlaying)
+        {
+            Time.timeScale = 0f;
+        }
+
         if (settingsPanel != null) settingsPanel.SetActive(true);
     }
 
     public void CloseSettings()
     {
         PlayClickSound();
+
         if (settingsPanel != null) settingsPanel.SetActive(false);
+
+        // Resume game if it was actively playing before opening settings
+        if (wasPlayingBeforeSettings)
+        {
+            Time.timeScale = 1f;
+        }
     }
 
     public void RestartGame()
