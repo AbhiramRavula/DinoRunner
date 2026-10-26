@@ -116,6 +116,8 @@ public class ObstacleSpawner : MonoBehaviour
 
     private void ScheduleNext()
     {
-        nextSpawn = Random.Range(minInterval, maxInterval);
+        float speedMultiplier = (GameManager.Instance != null) ? GameManager.Instance.SpeedMultiplier : 1f;
+        // Scale interval inversely so distance between obstacles stays consistent and fair at high speeds
+        nextSpawn = Random.Range(minInterval, maxInterval) / Mathf.Max(speedMultiplier, 0.5f);
     }
 }

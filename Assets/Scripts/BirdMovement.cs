@@ -23,9 +23,10 @@ public class BirdMovement : MonoBehaviour
             !GameManager.Instance.IsPlaying)
             return;
 
-        // Fly from right to left.
+        // Fly from right to left with scaled speed
+        float currentSpeed = (GameManager.Instance != null) ? GameManager.Instance.CurrentSpeed : speed;
         transform.position += Vector3.left *
-            speed * Time.deltaTime;
+            currentSpeed * Time.deltaTime;
 
         // Animate the wing flaps.
         if (flyingFrames != null &&
@@ -33,7 +34,8 @@ public class BirdMovement : MonoBehaviour
         {
             frameTimer += Time.deltaTime;
 
-            if (frameTimer >= frameRate)
+            float speedMult = (GameManager.Instance != null) ? GameManager.Instance.SpeedMultiplier : 1f;
+            if (frameTimer >= frameRate / Mathf.Max(speedMult, 0.5f))
             {
                 frameTimer = 0f;
                 frameIndex = (frameIndex + 1) %

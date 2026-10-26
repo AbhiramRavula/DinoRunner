@@ -51,8 +51,9 @@ public class BackgroundScroller : MonoBehaviour
         if (GameManager.Instance == null || !GameManager.Instance.IsPlaying)
             return;
 
-        // Move left at constant speed
-        transform.position += Vector3.left * speed * Time.deltaTime;
+        // Move left at parallax speed scaled with game speed
+        float currentSpeed = (GameManager.Instance != null) ? speed * GameManager.Instance.SpeedMultiplier : speed;
+        transform.position += Vector3.left * currentSpeed * Time.deltaTime;
 
         // When completely scrolled off-screen to the left
         if (transform.position.x <= -tileWidth)

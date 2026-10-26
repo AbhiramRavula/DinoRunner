@@ -12,8 +12,9 @@ public class ObstacleMovement : MonoBehaviour
             !GameManager.Instance.IsPlaying)
             return;
 
+        float currentSpeed = (GameManager.Instance != null) ? GameManager.Instance.CurrentSpeed : speed;
         transform.position += Vector3.left *
-            speed * Time.deltaTime;
+            currentSpeed * Time.deltaTime;
 
         if (transform.position.x < destroyX)
             Destroy(gameObject);

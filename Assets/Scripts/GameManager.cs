@@ -23,10 +23,21 @@ public class GameManager : MonoBehaviour
     public Toggle musicToggle;
     public Toggle sfxToggle;
 
+    [Header("Speed Scaling")]
+    [Tooltip("Starting speed of ground and obstacles")]
+    public float baseSpeed = 7f;
+    [Tooltip("Maximum cap for game speed")]
+    public float maxSpeed = 14f;
+    [Tooltip("How much speed increases per 100 points scored")]
+    public float speedIncreasePer100Points = 0.5f;
+
     public bool IsPlaying { get; private set; }
     private float score;
     private int highScore;
     private int lastMilestone;
+
+    public float CurrentSpeed => Mathf.Min(baseSpeed + ((score / 100f) * speedIncreasePer100Points), maxSpeed);
+    public float SpeedMultiplier => (baseSpeed > 0f) ? (CurrentSpeed / baseSpeed) : 1f;
 
     private void Awake()
     {

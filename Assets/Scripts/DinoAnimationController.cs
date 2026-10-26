@@ -72,8 +72,10 @@ public class DinoAnimationController : MonoBehaviour
         if (frames == null || frames.Length == 0)
             return;
 
-        // Lower multiplier = slower animation (e.g., 0.5 = twice as slow)
-        float effectiveRate = frameRate / Mathf.Max(0.1f, animationSpeedMultiplier);
+        // Accelerate animation speed proportionally with game speed
+        float gameSpeedMultiplier = (GameManager.Instance != null) ? GameManager.Instance.SpeedMultiplier : 1f;
+        float totalMultiplier = Mathf.Max(0.1f, animationSpeedMultiplier * gameSpeedMultiplier);
+        float effectiveRate = frameRate / totalMultiplier;
 
         frameTimer += Time.deltaTime;
 
